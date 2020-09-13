@@ -1026,5 +1026,5 @@ import re
 
 
 Credits
-------
-Inspired by: https://github.com/iamparthgalani
+-------
+Created by: https://github.com/iamparthgalani
